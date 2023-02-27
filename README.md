@@ -10,7 +10,7 @@ Projeyi cloneladıktan sonra Visual Studuo Code içerisinde açınız.
 
 Linux için:
 
-cd kodluyoruzilkrepo2
+cd kodluyoruzilkrepo
 
 code .
 
